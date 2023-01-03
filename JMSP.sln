@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JMSPEngine", "Source\JMSPEngine\JMSPEngine.vcxproj", "{4E96364F-1D82-4BE3-861E-1E0AB0F18BC3}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JMSPEditor", "Source\JMSPEditor\JMSPEditor.vcxproj", "{786DD66E-8371-4FD1-8E5D-4C45438B250D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JMSPEngine", "Source\JMSPEngine\JMSPEngine.vcxproj", "{4E96364F-1D82-4BE3-861E-1E0AB0F18BC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
